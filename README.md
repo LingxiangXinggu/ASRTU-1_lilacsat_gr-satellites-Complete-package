@@ -1,3 +1,4 @@
+Please read README_cn.md (Chinese version) before using this package!!!!!!!!!!!!!!!!!!!
 [中文版本](./README_cn.md)
 
 # ASRTU-1_lilacsat_gr-satellites-Complete-package
