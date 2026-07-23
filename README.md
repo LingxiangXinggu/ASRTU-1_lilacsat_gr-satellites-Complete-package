@@ -2,7 +2,9 @@ Please read README_cn.md (Chinese version) before using this package!!!!!!!!!!!!
 [中文版本](./README_cn.md)
 
 # ASRTU-1_lilacsat_gr-satellites-Complete-package
-Pre-configured LilacSat and gr-satellites environment with Radioconda GNU Radio setup. Includes portable launch scripts, first-use guide, SDR# and Orbitron configuration for a plug-and-play experie[...]
+Pre-configured LilacSat and gr-satellites environment with Radioconda GNU Radio setup. Includes portable launch scripts, first-use guide, SDR# and Orbitron configuration for a plug-and-play experie 
+
+Prepared for the 2026 International Space Communication Challenge (ISCC) on July 23, 2026. This package is shared to simplify deployment and help participants quickly build a working satellite reception environment.
 
 To get full package and user manual, please download release package!
 
